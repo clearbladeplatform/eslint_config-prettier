@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,eslint_config-prettier",
+    "logging_enabled": "false",
+    "name": "eslint_config-prettierSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "eslint_config-prettierSmokeTest.js"
+}
